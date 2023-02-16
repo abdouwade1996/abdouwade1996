@@ -19,9 +19,6 @@ la vie
 
 first commit
 
-encore un commit
-
-
 Si t'échoues, n'abandonnes jamais car le mot échouer en anglais est traduit par `FAIL` qui veut dire : 
 ## First Attempt In Learning (Premier Essai dans l'Apprentissage).
 
