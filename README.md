@@ -36,6 +36,6 @@ Comme le disait Bill Gates :
 # "Si tu es né pauvre, ce n'est pas de ta faute, mais si tu meurs pauvre c'est ta faute"
 
 Thomas Sankara a dit: 
-# "Honte à celui qui ne fait pas mieux que son père ou sa mère...''
+## "Honte à celui qui ne fait pas mieux que son père ou sa mère...''
 _et WILSON CHURCHILL de dire: 
 ## _<<Il n'y a qu'une seule réponse à l'échec c'est la victoire>>_.
