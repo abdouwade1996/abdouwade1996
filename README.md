@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **abdouwade1996/abdouwade1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-la vie 
-
-first commit
 
 Si t'échoues, n'abandonnes jamais car le mot échouer en anglais est traduit par `FAIL` qui veut dire : 
 ## First Attempt In Learning (Premier Essai dans l'Apprentissage).
