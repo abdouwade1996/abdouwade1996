@@ -4,7 +4,9 @@
 #include <math.h>
 /*
     sizeof(<donnee>) : retourne la taille en octets d'une donnee
-    malloc(<taille_en_octets) : allouer dynamiquement 
+    
+    malloc(<taille_en_octets) : allouer dynamiquement
+
     free(donnee_allouee) : libère la mémoire alouée dynamiquement
 
     calloc(<donnee>, <taille_en_octets>) : alloue et initialise tout a 0
