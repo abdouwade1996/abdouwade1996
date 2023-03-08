@@ -5,7 +5,7 @@
 /*
     sizeof(<donnee>) : retourne la taille en octets d'une donnee
     
-    malloc(<taille_en_octets) : allouer dynamiquement
+    malloc(<taille_en_octets) : allouer dynamiquement 
 
     free(donnee_allouee) : libère la mémoire alouée dynamiquement
 
