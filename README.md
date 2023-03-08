@@ -1,5 +1,5 @@
 
-Si t'échoues, n'abandonnes jamais car le mot échouer en anglais est traduit par #`FAIL` qui veut dire : 
+Si t'échoues, n'abandonnes jamais car le mot échouer en anglais est traduit par `FAIL` qui veut dire : 
 ## First Attempt In Learning (Premier Essai dans l'Apprentissage).
 
 La fin n'est pas la fin car le mot fin en anglais est traduit par `END` qui veut dire 
