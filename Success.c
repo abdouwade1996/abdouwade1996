@@ -2,11 +2,19 @@
 
 // Algorithm of Success
 
-while (noSuccess)
+int main(int argc, char *argv[])
 {
-    tryAgain();
 
-    if(Dead)
-       break;
+    int noSuccess = 1; // Declare and initialize the variable "noSuccess"
+
+    while (noSuccess)
+    {
+        tryAgain();
+
+        int Dead = 0; // Declare and initialize the variable "Dead"
+        if (Dead)
+            break;
+    }
+
+    exit(0);
 }
-
