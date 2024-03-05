@@ -2,6 +2,9 @@
 #define PARAMETRE_HPP
 #include <string>
 
+/**
+ * @brief Class representing a set of parameters.
+ */
 class Parametre
 {
     public:
