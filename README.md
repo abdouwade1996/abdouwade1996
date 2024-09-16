@@ -8,6 +8,10 @@ Motion planning is an essential pillar of modern robotics, enabling robots to mo
 
 The `Boustrophedon Cell Decomposition (BCD)` is a method for coverage path planning for cleaning robots. 
 This cell decomposition method divides the robot's reachable area into non-overlapping cellular regions. 
-The robot's trajectory is then determined by the sequence of cells to be visited. 
+The robot's trajectory is then determined by the sequence of cells to be visited.
+
+In this project, we implement the BCD algorithm for a cleaning robot to cover a given area.
+
+![BCD](images/Boustrophedon.png)
 
 ***Results:***
