@@ -20,7 +20,7 @@ To visualize the robot's trajectory, we read the `csv` file of positions (which 
 
 <details>
   <summary>Path</summary>
-  <img src="images/boustrophdeon.png" alt="Path" width="600"/>
+  <img src="images/boustrophedon.png" alt="Path" width="600"/>
 </details>
 
 To simulate the robot's trajectory in a fluid, we use the fluid toolbox of the Feel++ finite element library and the `csv` file containing the velocities.
