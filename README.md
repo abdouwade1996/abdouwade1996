@@ -28,4 +28,7 @@ To simulate the robot's trajectory in a fluid, we use the fluid toolbox of the F
   Your browser does not support the video tag.
 </video> -->
 
-![Trajectory](images/pathvideo.gif)
+<details>
+  <summary>Click to see the video</summary>
+  <img src="images/pathvideo.gif" alt="Trajectory" width="600"/>
+<!-- ![Trajectory](images/pathvideo.gif) -->
