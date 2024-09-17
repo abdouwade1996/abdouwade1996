@@ -18,7 +18,10 @@ In this project, we implement the BCD algorithm for a cleaning robot to cover a 
 
 To visualize the robot's trajectory, we read the `csv` file of positions (which contains `x`, `y` cells and `time`), create cells covering the entire domain and make the robot follow the path created.
 
-![Trajectory](images/boustrophedon.png)
+<details>
+  <summary>Path</summary>
+  <img src="images/boustrophdeon.png" alt="Path" width="600"/>
+</details>
 
 To simulate the robot's trajectory in a fluid, we use the fluid toolbox of the Feel++ finite element library and the `csv` file containing the velocities.
 
@@ -29,6 +32,7 @@ To simulate the robot's trajectory in a fluid, we use the fluid toolbox of the F
 </video> -->
 
 <details>
-  <summary>Click to see the video</summary>
+  <summary>Trajectory</summary>
   <img src="images/pathvideo.gif" alt="Trajectory" width="600"/>
+</details>
 <!-- ![Trajectory](images/pathvideo.gif) -->
