@@ -36,3 +36,7 @@ To simulate the robot's trajectory in a fluid, we use the fluid toolbox of the F
   <img src="images/pathvideo.gif" alt="Trajectory" width="600"/>
 </details>
 <!-- ![Trajectory](images/pathvideo.gif) -->
+
+We read the mesh with the `Pyvista` library and display the mesh. 
+
+In the case of a single obstacle, we have the following figure.
